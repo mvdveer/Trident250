@@ -1,4 +1,4 @@
-# Trident250
+# Trident250 VT.941
 Backup Configuration files Trident 250mm build
 
 Formbot Kit
